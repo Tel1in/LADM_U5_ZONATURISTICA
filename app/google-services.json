@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939716044595",
+    "project_id": "unidad5-f18d6",
+    "storage_bucket": "unidad5-f18d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939716044595:android:5c83d29c649f1213b20046",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.jjro.ladm_zonaturistica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939716044595-6mg1n17r7s7kjqqotlrqrksbo8e1kqe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvUTeGmtDZQICTnfBD-nTl4ol8saTzu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939716044595-6mg1n17r7s7kjqqotlrqrksbo8e1kqe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
